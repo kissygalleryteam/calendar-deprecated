@@ -10,10 +10,12 @@ calendar-deprecated 是 KISSY <= 1.3 的内置日历组件。
          var calendar-deprecated = new Calendar();
     })
 
+
 ## API说明
 
-	http://docs.kissyui.com/docs/html/api/component/calendar/
+http://docs.kissyui.com/docs/html/api/component/calendar/
+
 	
 ## demo
 
-	http://gallery.kissyui.com/calendar-deprecated/1.0/demo/index.html
+http://gallery.kissyui.com/calendar-deprecated/1.0/demo/index.html
