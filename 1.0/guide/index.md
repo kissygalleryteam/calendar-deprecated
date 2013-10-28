@@ -13,7 +13,7 @@ calendar-deprecated 是 KISSY <= 1.3 的内置日历组件。
 
 ## API说明
 
-http://docs.kissyui.com/docs/html/api/component/calendar/
+http://docs.kissyui.com/1.3/docs/html/api/component/calendar/
 
 	
 ## demo
