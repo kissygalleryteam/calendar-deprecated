@@ -1,0 +1,1 @@
+KISSY.config("modules",{"kg/calendar-deprecated/2.0.0/index":{requires:["./lib/base","./lib/date","./lib/page","./lib/time"]}});
